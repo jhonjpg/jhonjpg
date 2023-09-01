@@ -14,7 +14,7 @@ Experienced Software Developer equipped with a creative and promising skill-set 
 ICON ICON ICON ICON ICON ICON ICON 
                     </p>
                     
-           ### Socials
+             ### Socials
                   
                   
                 <p align="left">
@@ -39,6 +39,7 @@ ICON ICON ICON ICON ICON ICON ICON
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
+<!--
 **jhonjpg/jhonjpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -51,4 +52,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
